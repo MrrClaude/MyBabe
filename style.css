@@ -46,6 +46,16 @@ body {
     filter: drop-shadow(0 0 10px rgba(255, 182, 193, 0.5));
 }
 
+.bear-video {
+    width: 280px;
+    height: 280px;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    filter: drop-shadow(0 0 10px rgba(255, 182, 193, 0.5));
+}
+
 .hearts {
     position: fixed;
     width: 100%;
